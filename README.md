@@ -22,8 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-#10:04
-#1:11:45
+ ./bin/rails assets:clobber
+#2:32:15
 # ruby_on_rails-ecomm
  

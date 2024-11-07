@@ -23,6 +23,6 @@ Things you may want to cover:
 
 * ...
  ./bin/rails assets:clobber
-#2:32:15
+#2:45:5
 # ruby_on_rails-ecomm
  
